@@ -1,5 +1,5 @@
 # GS_PraiApp_DotNet
-Repositório para as entregas da Global Solution - Disciplinas Enterprise Application Development 
+Repositório para as entregas da Global Solution - Disciplina Enterprise Application Development 
 
 # Nome da nossa aplicação/projeto: PraiApp
 
