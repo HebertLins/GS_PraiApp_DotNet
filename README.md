@@ -82,6 +82,6 @@ Observação: Esse seria apenas um exemplo de caminho lógico com a nossa aplica
 
 PlaceHodler
 
-#   Video de Apresentação
+#   Vídeo de Apresentação
 
 PlaceHolder
