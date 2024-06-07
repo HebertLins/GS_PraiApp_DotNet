@@ -41,7 +41,7 @@ De certo modo, todos os pontos estão interligados. É evidente que todos os pon
 
 # Guia para Executar a aplicação (PraiApp):
 
-1. Maiores detalhes para isso podem ser conferidos no vídeo de apresentação da nossa aplicação, onde teremos um exemplo de uso da mesma.
+1. Maiores detalhes para isso podem ser conferidos no vídeo (Último Item) de apresentação da nossa aplicação, onde teremos um exemplo de uso da mesma.
 
 2. Caso queira desconsiderar o vídeo, pode seguir os seguintes passos:
 
@@ -77,3 +77,11 @@ Observação: Esse seria apenas um exemplo de caminho lógico com a nossa aplica
     - `https://localhost:7002/EnderecosModel/Details/(código do endereco em detalhamento)`
     - `https://localhost:7002/EnderecosModel/Edit/(código do endereco a ser editado)`
     - `https://localhost:7002/EnderecosModel/Delete/(código do endereco a ser deletado)`
+
+#Vídeo Pitch
+
+PlaceHodler
+
+#Video de Apresentação
+
+PlaceHolder
