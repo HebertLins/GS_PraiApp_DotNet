@@ -78,10 +78,10 @@ Observação: Esse seria apenas um exemplo de caminho lógico com a nossa aplica
     - `https://localhost:7002/EnderecosModel/Edit/(código do endereco a ser editado)`
     - `https://localhost:7002/EnderecosModel/Delete/(código do endereco a ser deletado)`
 
-#Vídeo Pitch
+#   Vídeo Pitch
 
 PlaceHodler
 
-#Video de Apresentação
+#   Video de Apresentação
 
 PlaceHolder
