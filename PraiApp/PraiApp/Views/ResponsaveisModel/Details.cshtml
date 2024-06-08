@@ -1,0 +1,36 @@
+﻿@model PraiApp.Models.ResponsavelModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ResponsavelModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.IdResponsavel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.IdResponsavel)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeResponsavel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomeResponsavel)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CpfResponsavel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CpfResponsavel)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdResponsavel" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>

@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\enderecosmodel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\enderecosmodel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\avaliacoesmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\avaliacoesmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\controllers\\avaliacoesmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\controllers\\avaliacoesmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\models\\avaliacaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\models\\avaliacaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\models\\organizacaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\models\\organizacaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\models\\praiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\models\\praiamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\controllers\\usermodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\controllers\\usermodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\responsaveismodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\responsaveismodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\enderecosmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\enderecosmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\controllers\\praiasmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\controllers\\praiasmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\organizacoesmodel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\organizacoesmodel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\organizacoesmodel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\organizacoesmodel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\organizacoesmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\organizacoesmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\avaliacoesmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\avaliacoesmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\organizacoesmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\organizacoesmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\usermodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\usermodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\responsaveismodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\responsaveismodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\usermodels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\usermodels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\praiasmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\praiasmodel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\views\\praiasmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\views\\praiasmodel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\models\\responsavelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\models\\responsavelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|c:\\users\\heber\\onedrive\\desktop\\.net\\gs_net\\praiapp\\praiapp\\models\\enderecomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE02A0-1F83-4A26-8F14-493F868A46F0}|PraiApp\\PraiApp.csproj|solutionrelative:praiapp\\models\\enderecomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Program.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Program.cs",
+              "RelativeToolTip": "PraiApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T00:38:42.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\EnderecosModel\\Create.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\EnderecosModel\\Create.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\EnderecosModel\\Create.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\EnderecosModel\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T22:13:16.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\AvaliacoesModel\\Index.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\AvaliacoesModel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\AvaliacoesModel\\Index.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\AvaliacoesModel\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T00:59:32.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Controllers\\UserModelsController.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Controllers\\UserModelsController.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Controllers\\UserModelsController.cs",
+              "RelativeToolTip": "PraiApp\\Controllers\\UserModelsController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAApwEEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:03:56.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\ResponsaveisModel\\Details.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\ResponsaveisModel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\ResponsaveisModel\\Details.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\ResponsaveisModel\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T00:33:42.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\EnderecosModel\\Details.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\EnderecosModel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\EnderecosModel\\Details.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\EnderecosModel\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T00:33:12.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PraiasModelController.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Controllers\\PraiasModelController.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Controllers\\PraiasModelController.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Controllers\\PraiasModelController.cs",
+              "RelativeToolTip": "PraiApp\\Controllers\\PraiasModelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:33:57.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AvaliacoesModelController.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Controllers\\AvaliacoesModelController.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Controllers\\AvaliacoesModelController.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Controllers\\AvaliacoesModelController.cs",
+              "RelativeToolTip": "PraiApp\\Controllers\\AvaliacoesModelController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwFMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:24:44.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:15:07.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\OrganizacoesModel\\Create.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\OrganizacoesModel\\Create.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\OrganizacoesModel\\Create.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\OrganizacoesModel\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:13:11.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\OrganizacoesModel\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\OrganizacoesModel\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\OrganizacoesModel\\Delete.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\OrganizacoesModel\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:13:06.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\OrganizacoesModel\\Details.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\OrganizacoesModel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\OrganizacoesModel\\Details.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\OrganizacoesModel\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:11:38.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\OrganizacoesModel\\Index.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\OrganizacoesModel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\OrganizacoesModel\\Index.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\OrganizacoesModel\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:11:22.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\ResponsaveisModel\\Index.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\ResponsaveisModel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\ResponsaveisModel\\Index.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\ResponsaveisModel\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:11:01.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\PraiasModel\\Details.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\PraiasModel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\PraiasModel\\Details.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\PraiasModel\\Details.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:09:10.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\PraiasModel\\Index.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\PraiasModel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\PraiasModel\\Index.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\PraiasModel\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:08:42.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\UserModels\\Details.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\UserModels\\Details.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\UserModels\\Details.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\UserModels\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:08:21.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\AvaliacoesModel\\Details.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\AvaliacoesModel\\Details.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\AvaliacoesModel\\Details.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\AvaliacoesModel\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:08:12.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\UserModels\\Index.cshtml",
+              "RelativeDocumentMoniker": "PraiApp\\Views\\UserModels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Views\\UserModels\\Index.cshtml",
+              "RelativeToolTip": "PraiApp\\Views\\UserModels\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-06T23:07:59.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\UserModel.cs",
+              "RelativeToolTip": "PraiApp\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:03:35.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResponsavelModel.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\ResponsavelModel.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Models\\ResponsavelModel.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\ResponsavelModel.cs",
+              "RelativeToolTip": "PraiApp\\Models\\ResponsavelModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:03:32.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PraiaModel.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\PraiaModel.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Models\\PraiaModel.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\PraiaModel.cs",
+              "RelativeToolTip": "PraiApp\\Models\\PraiaModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA7wCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:03:23.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrganizacaoModel.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\OrganizacaoModel.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Models\\OrganizacaoModel.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\OrganizacaoModel.cs",
+              "RelativeToolTip": "PraiApp\\Models\\OrganizacaoModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:02:54.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PraiApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:02:52.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnderecoModel.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\EnderecoModel.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Models\\EnderecoModel.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\EnderecoModel.cs",
+              "RelativeToolTip": "PraiApp\\Models\\EnderecoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:02:49.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AvaliacaoModel.cs",
+              "DocumentMoniker": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\AvaliacaoModel.cs",
+              "RelativeDocumentMoniker": "PraiApp\\Models\\AvaliacaoModel.cs",
+              "ToolTip": "C:\\Users\\heber\\OneDrive\\Desktop\\.net\\GS_NET\\PraiApp\\PraiApp\\Models\\AvaliacaoModel.cs",
+              "RelativeToolTip": "PraiApp\\Models\\AvaliacaoModel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T23:02:18.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

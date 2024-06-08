@@ -1,0 +1,71 @@
+﻿@model PraiApp.Models.AvaliacaoModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>AvaliacaoModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdAvaliacao" />
+            <div class="form-group">
+                <label asp-for="LimpezaAvaliacao" class="control-label"></label>
+                <input asp-for="LimpezaAvaliacao" class="form-control" />
+                <span asp-validation-for="LimpezaAvaliacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EstruturaAvaliacao" class="control-label"></label>
+                <input asp-for="EstruturaAvaliacao" class="form-control" />
+                <span asp-validation-for="EstruturaAvaliacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SinalizacaoAvaliacao" class="control-label"></label>
+                <input asp-for="SinalizacaoAvaliacao" class="form-control" />
+                <span asp-validation-for="SinalizacaoAvaliacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MonitoramentoAvaliacao" class="control-label"></label>
+                <input asp-for="MonitoramentoAvaliacao" class="form-control" />
+                <span asp-validation-for="MonitoramentoAvaliacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PoluicaoAvaliacao" class="control-label"></label>
+                <input asp-for="PoluicaoAvaliacao" class="form-control" />
+                <span asp-validation-for="PoluicaoAvaliacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConservacaoAvaliacao" class="control-label"></label>
+                <input asp-for="ConservacaoAvaliacao" class="form-control" />
+                <span asp-validation-for="ConservacaoAvaliacao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdUser" class="control-label"></label>
+                <input asp-for="IdUser" class="form-control" />
+                <span asp-validation-for="IdUser" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdPraia" class="control-label"></label>
+                <input asp-for="IdPraia" class="form-control" />
+                <span asp-validation-for="IdPraia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-md-6">
+        <a asp-action="Index" class="btn btn-secondary mr-2 float-right">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

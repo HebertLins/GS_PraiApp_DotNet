@@ -1,0 +1,40 @@
+﻿@model PraiApp.Models.ResponsavelModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>ResponsavelModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdResponsavel" />
+            <div class="form-group">
+                <label asp-for="NomeResponsavel" class="control-label"></label>
+                <input asp-for="NomeResponsavel" class="form-control" />
+                <span asp-validation-for="NomeResponsavel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CpfResponsavel" class="control-label"></label>
+                <input asp-for="CpfResponsavel" class="form-control" />
+                <span asp-validation-for="CpfResponsavel" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-md-6">
+        <a asp-action="Index" class="btn btn-secondary mr-2 float-right">Back to List</a>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

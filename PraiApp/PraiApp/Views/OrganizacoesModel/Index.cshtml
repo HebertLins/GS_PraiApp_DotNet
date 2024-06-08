@@ -1,0 +1,64 @@
+﻿@model IEnumerable<PraiApp.Models.OrganizacaoModel>
+
+@{
+    ViewData["Title"] = "Organizações";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1 class="mb-0">Organizações</h1>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</div>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.NomeOrganizacao)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.DescricaoOrganizacao)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.TipoOrganizacao)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.CnpjOrganizacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td class="text-center">
+                    @Html.DisplayFor(modelItem => item.NomeOrganizacao)
+                </td>
+                <td class="text-center">
+                    @Html.DisplayFor(modelItem => item.DescricaoOrganizacao)
+                </td>
+                <td class="text-center">
+                    @Html.DisplayFor(modelItem => item.TipoOrganizacao)
+                </td>
+                <td class="text-center">
+                    @Html.DisplayFor(modelItem => item.CnpjOrganizacao)
+                </td>
+                <td class="text-center">
+                    <a asp-action="Details" asp-route-id="@item.IdOrganizacao" class="btn btn-info btn-sm">Details</a>
+                    <a asp-action="Edit" asp-route-id="@item.IdOrganizacao" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.IdOrganizacao" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    th, td {
+        padding: 15px;
+        border-right: 1px solid #ddd;
+    }
+    th:last-child, td:last-child {
+        border-right: none;
+    }
+</style>

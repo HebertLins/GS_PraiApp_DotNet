@@ -1,0 +1,63 @@
+﻿@model IEnumerable<PraiApp.Models.EnderecoModel>
+
+@{
+    ViewData["Title"] = "Endereços";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1 class="mb-0">Endereços</h1>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</div>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.RuaEndereco)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.CidadeEndereco)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.UfEndereco)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.CepEndereco)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.RuaEndereco)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.CidadeEndereco)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.UfEndereco)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.CepEndereco)
+            </td>
+            <td class="text-center">
+                <a asp-action="Edit" asp-route-id="@item.IdEndereco" class="btn btn-warning btn-sm">Edit</a>
+                <a asp-action="Details" asp-route-id="@item.IdEndereco" class="btn btn-info btn-sm">Details</a>
+                <a asp-action="Delete" asp-route-id="@item.IdEndereco" class="btn btn-danger btn-sm">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<style>
+    th, td {
+        padding: 15px;
+        border-right: 1px solid #ddd;
+    }
+    th:last-child, td:last-child {
+        border-right: none;
+    }
+</style>

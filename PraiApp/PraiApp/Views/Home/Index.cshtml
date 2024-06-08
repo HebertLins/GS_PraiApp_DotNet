@@ -1,0 +1,76 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <div class="text-center">
+        <h1 class="display-4">Bem-vindo!</h1>
+        <p class="lead">Aprenda um pouco mais sobre a nossa aplicação!</p>
+    </div>
+    
+    <div class="row mt-5">
+        <div class="col-md-4">
+            <div class="card text-center h-100">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Avaliações</h5>
+                    <p class="card-text flex-grow-1">Gerencie as avaliações das praias, incluindo limpeza, estrutura, sinalização, monitoramento, poluição e conservação.</p>
+                    <a href="@Url.Action("Index", "AvaliacoesModel")" class="btn btn-primary mt-auto">Ver Avaliações</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card text-center h-100">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Endereços</h5>
+                    <p class="card-text flex-grow-1">Administre os endereços relacionados às praias e organizações.</p>
+                    <a href="@Url.Action("Index", "EnderecosModel")" class="btn btn-primary mt-auto">Ver Endereços</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card text-center h-100">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Organizações</h5>
+                    <p class="card-text flex-grow-1">Gerencie informações sobre as organizações responsáveis pelas praias.</p>
+                    <a href="@Url.Action("Index", "OrganizacoesModel")" class="btn btn-primary mt-auto">Ver Organizações</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card text-center h-100">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Praias</h5>
+                    <p class="card-text flex-grow-1">Veja e gerencie as praias, suas descrições e avaliações totais.</p>
+                    <a href="@Url.Action("Index", "PraiasModel")" class="btn btn-primary mt-auto">Ver Praias</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card text-center h-100">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Responsáveis</h5>
+                    <p class="card-text flex-grow-1">Administre as informações dos responsáveis pelas praias.</p>
+                    <a href="@Url.Action("Index", "ResponsaveisModel")" class="btn btn-primary mt-auto">Ver Responsáveis</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-md-4">
+            <div class="card text-center h-100">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">Usuários</h5>
+                    <p class="card-text flex-grow-1">Gerencie as contas dos usuários da aplicação.</p>
+                    <a href="@Url.Action("Index", "UserModels")" class="btn btn-primary mt-auto">Ver Usuários</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

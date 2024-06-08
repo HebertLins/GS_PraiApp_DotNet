@@ -1,0 +1,49 @@
+﻿@model PraiApp.Models.OrganizacaoModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>OrganizacaoModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeOrganizacao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomeOrganizacao)
+        </dd>
+        <!-- Adicione outros campos aqui conforme necessário -->
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CnpjOrganizacao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CnpjOrganizacao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Endereco.IdEndereco)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Endereco.IdEndereco)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Responsavel.IdResponsavel)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Responsavel.IdResponsavel)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdOrganizacao" />
+        <div class="form-group">
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            <a asp-action="Index" class="btn btn-default">Cancel</a>
+        </div>
+    </form>
+</div>
+

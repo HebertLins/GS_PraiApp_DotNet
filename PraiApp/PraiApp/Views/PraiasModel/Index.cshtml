@@ -1,0 +1,93 @@
+﻿@model IEnumerable<PraiApp.Models.PraiaModel>
+
+@{
+    ViewData["Title"] = "Praias";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1 class="mb-0">Praias</h1>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</div>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.NomePraia)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.DescPraia)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.TotLimpezaPraia)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.TotEstruturaPraia)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.TotSinalizacaoPraia)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.TotMonitoramentoPraia)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.TotPoluicaoPraia)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.TotConservacaoPraia)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.TotalPraia)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.NomePraia)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.DescPraia)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.TotLimpezaPraia)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.TotEstruturaPraia)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.TotSinalizacaoPraia)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.TotMonitoramentoPraia)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.TotPoluicaoPraia)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.TotConservacaoPraia)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.TotalPraia)
+            </td>
+            <td class="text-center">
+                <a asp-action="Edit" asp-route-id="@item.IdPraia" class="btn btn-warning btn-sm">Edit</a>
+                <a asp-action="Details" asp-route-id="@item.IdPraia" class="btn btn-info btn-sm">Details</a>
+                <a asp-action="Delete" asp-route-id="@item.IdPraia" class="btn btn-danger btn-sm">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<style>
+    th, td {
+        padding: 15px;
+        border-right: 1px solid #ddd;
+    }
+    th:last-child, td:last-child {
+        border-right: none;
+    }
+</style>

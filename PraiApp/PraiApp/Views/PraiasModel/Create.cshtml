@@ -1,0 +1,80 @@
+﻿@model PraiApp.Models.PraiaModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PraiaModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NomePraia" class="control-label"></label>
+                <input asp-for="NomePraia" class="form-control" />
+                <span asp-validation-for="NomePraia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DescPraia" class="control-label"></label>
+                <input asp-for="DescPraia" class="form-control" />
+                <span asp-validation-for="DescPraia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotLimpezaPraia" class="control-label"></label>
+                <input asp-for="TotLimpezaPraia" class="form-control" />
+                <span asp-validation-for="TotLimpezaPraia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotEstruturaPraia" class="control-label"></label>
+                <input asp-for="TotEstruturaPraia" class="form-control" />
+                <span asp-validation-for="TotEstruturaPraia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotSinalizacaoPraia" class="control-label"></label>
+                <input asp-for="TotSinalizacaoPraia" class="form-control" />
+                <span asp-validation-for="TotSinalizacaoPraia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotMonitoramentoPraia" class="control-label"></label>
+                <input asp-for="TotMonitoramentoPraia" class="form-control" />
+                <span asp-validation-for="TotMonitoramentoPraia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotPoluicaoPraia" class="control-label"></label>
+                <input asp-for="TotPoluicaoPraia" class="form-control" />
+                <span asp-validation-for="TotPoluicaoPraia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotConservacaoPraia" class="control-label"></label>
+                <input asp-for="TotConservacaoPraia" class="form-control" />
+                <span asp-validation-for="TotConservacaoPraia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalPraia" class="control-label"></label>
+                <input asp-for="TotalPraia" class="form-control" />
+                <span asp-validation-for="TotalPraia" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdEndereco" class="control-label"></label>
+                <input asp-for="IdEndereco" class="form-control" />
+                <span asp-validation-for="IdEndereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-md-4">
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

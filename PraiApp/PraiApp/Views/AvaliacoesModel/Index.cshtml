@@ -1,0 +1,73 @@
+﻿@model IEnumerable<PraiApp.Models.AvaliacaoModel>
+
+@{
+    ViewData["Title"] = "Avaliações";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h1 class="mb-0">Avaliações</h1>
+    <a asp-action="Create" class="btn btn-primary">Create New</a>
+</div>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.LimpezaAvaliacao)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.EstruturaAvaliacao)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.SinalizacaoAvaliacao)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.MonitoramentoAvaliacao)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.PoluicaoAvaliacao)
+            </th>
+            <th class="text-center">
+                @Html.DisplayNameFor(model => model.ConservacaoAvaliacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.LimpezaAvaliacao)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.EstruturaAvaliacao)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.SinalizacaoAvaliacao)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.MonitoramentoAvaliacao)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.PoluicaoAvaliacao)
+            </td>
+            <td class="text-center">
+                @Html.DisplayFor(modelItem => item.ConservacaoAvaliacao)
+            </td>
+            <td class="text-center">
+                <a asp-action="Details" asp-route-id="@item.IdAvaliacao" class="btn btn-info btn-sm">Details</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<style>
+    th, td {
+        padding: 15px;
+        border-right: 1px solid #ddd;
+    }
+    th:last-child, td:last-child {
+        border-right: none;
+    }
+</style>

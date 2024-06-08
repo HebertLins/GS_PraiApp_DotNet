@@ -1,0 +1,75 @@
+﻿@model PraiApp.Models.PraiaModel
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>PraiaModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NomePraia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NomePraia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DescPraia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DescPraia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TotLimpezaPraia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TotLimpezaPraia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TotEstruturaPraia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TotEstruturaPraia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TotSinalizacaoPraia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TotSinalizacaoPraia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TotMonitoramentoPraia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TotMonitoramentoPraia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TotPoluicaoPraia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TotPoluicaoPraia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TotConservacaoPraia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TotConservacaoPraia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TotalPraia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TotalPraia)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdPraia" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>

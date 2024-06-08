@@ -1,0 +1,50 @@
+﻿@model PraiApp.Models.EnderecoModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>EnderecoModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="RuaEndereco" class="control-label"></label>
+                <input asp-for="RuaEndereco" class="form-control" />
+                <span asp-validation-for="RuaEndereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CidadeEndereco" class="control-label"></label>
+                <input asp-for="CidadeEndereco" class="form-control" />
+                <span asp-validation-for="CidadeEndereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UfEndereco" class="control-label"></label>
+                <input asp-for="UfEndereco" class="form-control" />
+                <span asp-validation-for="UfEndereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CepEndereco" class="control-label"></label>
+                <input asp-for="CepEndereco" class="form-control" />
+                <span asp-validation-for="CepEndereco" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-md-4">
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
