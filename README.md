@@ -80,7 +80,7 @@ Observação: Esse seria apenas um exemplo de caminho lógico com a nossa aplica
 
 #   Vídeo Pitch
 
-PlaceHodler
+https://youtu.be/X-ceZ0Oc9Ng
 
 #   Vídeo de Apresentação
 
